@@ -1,6 +1,6 @@
 # Essentialism
 
-![essentialism_cover](./images/essentialism.jpeg)
+<img src="./images/essentialism.jpeg" alt="drawing" width="200"/>
 
 
 ## 개요
